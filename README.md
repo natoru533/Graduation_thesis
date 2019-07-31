@@ -23,5 +23,14 @@
 相関行列のヒートマップ
  * 赤：正の相関, 青：負の相関　
  * 色が濃いほど相関関係が強い
-<img src="./readme_figs/all_corrcoef_pic_conv1drop0_.png" alt="drawing" width="400px"/>
-<img src="./readme_figs/all_corrcoef_pic_conv1drop0.5_.png" alt="drawing" width="400px"/>
+ 
+<table>
+  <tr>
+    <th>ドロップアウト率=0</th>
+    <th>ドロップアウト率=0.5</th>
+  </tr>
+  <tr>
+    <td><img src="./readme_figs/all_corrcoef_pic_conv1drop0_.png" alt="drawing" width="400px"/></td>
+    <td><img src="./readme_figs/all_corrcoef_pic_conv1drop0.5_.png" alt="drawing" width="400px"/></td>
+  </tr>
+</table>
