@@ -7,7 +7,7 @@ python==2.7.14
 chainer==
 ```
 
-###コード概要
+### コード概要
 1. create_mnist_dataフォルダ
  * extract_mnist_pic.py : chainer mnistからmnistの画像をダウンロードし、クラスごとに保存する
  * change_mnist.py : mnist画像にノイズを加える
